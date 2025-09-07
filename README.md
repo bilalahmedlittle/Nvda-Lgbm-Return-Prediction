@@ -10,8 +10,6 @@ This project develops a machine learning model to predict NVIDIA (NVDA) stock re
 
 - **`NVDA_LGBM copy.ipynb`** - Main model development notebook
 - **`NVDA_LGBM_2 copy.ipynb`** - Strategy testing and optimization
-- **`nvda_with_features.pkl`** - Processed dataset with engineered features
-- **`best_params.json`** - Optimized hyperparameters
 
 ## Part 1: Model Development (`NVDA_LGBM copy.ipynb`)
 
