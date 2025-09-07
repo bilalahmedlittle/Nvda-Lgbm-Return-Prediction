@@ -1,4 +1,4 @@
-# NVDA-LGBM-Return-Prediction-And-Strategy_Development
+# NVDA-LGBM-Return-Prediction-And-Strategy-Development
 
 Predicting NVIDIA returns using a LightGBM model and analyzing trading strategies based on these predictions.
 
